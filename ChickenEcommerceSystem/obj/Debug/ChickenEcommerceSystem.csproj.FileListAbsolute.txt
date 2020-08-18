@@ -1,0 +1,7 @@
+C:\Users\noahs\Desktop\School\CSE 445\Project 2\ChickenEcommerceSystem\ChickenEcommerceSystem\bin\Debug\ChickenEcommerceSystem.exe.config
+C:\Users\noahs\Desktop\School\CSE 445\Project 2\ChickenEcommerceSystem\ChickenEcommerceSystem\bin\Debug\ChickenEcommerceSystem.exe
+C:\Users\noahs\Desktop\School\CSE 445\Project 2\ChickenEcommerceSystem\ChickenEcommerceSystem\bin\Debug\ChickenEcommerceSystem.pdb
+C:\Users\noahs\Desktop\School\CSE 445\Project 2\ChickenEcommerceSystem\ChickenEcommerceSystem\obj\Debug\ChickenEcommerceSystem.csprojAssemblyReference.cache
+C:\Users\noahs\Desktop\School\CSE 445\Project 2\ChickenEcommerceSystem\ChickenEcommerceSystem\obj\Debug\ChickenEcommerceSystem.csproj.CoreCompileInputs.cache
+C:\Users\noahs\Desktop\School\CSE 445\Project 2\ChickenEcommerceSystem\ChickenEcommerceSystem\obj\Debug\ChickenEcommerceSystem.exe
+C:\Users\noahs\Desktop\School\CSE 445\Project 2\ChickenEcommerceSystem\ChickenEcommerceSystem\obj\Debug\ChickenEcommerceSystem.pdb

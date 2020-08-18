@@ -1,0 +1,640 @@
+/************/
+Test #1 Output
+/************/
+Price cut to $8. Previous price was $11
+Store 1 has placed an order.
+Store 3 has placed an order.
+Store 4 has placed an order.
+Farmer has recieved new order from Store 3
+Price cut to $1. Previous price was $8
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 3
+        cardNo: 2147483645
+        amount: 3
+        orderDate: 6/4/2020 11:38:21 AM
+        price: $8
+        orderConfirmedDate: 6/4/2020 11:38:22 AM
+        totalAmountDue: $28.68
+Farmer has recieved new order from Store 4
+Store 2 has placed an order.
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 4
+        cardNo: 2147483646
+        amount: 3
+        orderDate: 6/4/2020 11:38:21 AM
+        price: $8
+        orderConfirmedDate: 6/4/2020 11:38:23 AM
+        totalAmountDue: $28.68
+Store 1 has placed an order.
+Farmer has recieved new order from Store 2
+Price cut to $9. Previous price was $10
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 2
+        cardNo: 2147483644
+        amount: 3
+        orderDate: 6/4/2020 11:38:21 AM
+        price: $8
+        orderConfirmedDate: 6/4/2020 11:38:24 AM
+        totalAmountDue: $28.68
+Store 3 has placed an order.
+Farmer has recieved new order from Store 1
+Price cut to $8. Previous price was $9
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 1
+        cardNo: 2147483643
+        amount: 3
+        orderDate: 6/4/2020 11:38:22 AM
+        price: $8
+        orderConfirmedDate: 6/4/2020 11:38:25 AM
+        totalAmountDue: $28.68
+Farmer has recieved new order from Store 3
+Store 5 has placed an order.
+Price cut to $6. Previous price was $8
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 3
+        cardNo: 2147483645
+        amount: 3
+        orderDate: 6/4/2020 11:38:22 AM
+        price: $8
+        orderConfirmedDate: 6/4/2020 11:38:26 AM
+        totalAmountDue: $28.68
+Farmer has recieved new order from Store 5
+Store 1 has placed an order.
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 5
+        cardNo: 2147483647
+        amount: 3
+        orderDate: 6/4/2020 11:38:21 AM
+        price: $8
+        orderConfirmedDate: 6/4/2020 11:38:27 AM
+        totalAmountDue: $28.68
+There have been 5 price cuts.
+Farmer is done selling chickens for the day.
+Store 1 has closed for the day.
+Store 5 has closed for the day.
+Store 4 has closed for the day.
+Store 2 has closed for the day.
+Store 3 has closed for the day.
+Enter any key to end the program...
+/************/
+Test #2 Output
+/************/
+Price cut to $7. Previous price was $11
+Store 4 has placed an order.
+Store 3 has placed an order.
+Store 5 has placed an order.
+Farmer has recieved new order from Store 3
+Price cut to $3. Previous price was $7
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 3
+        cardNo: 2147483645
+        amount: 4
+        orderDate: 6/4/2020 11:38:56 AM
+        price: $7
+        orderConfirmedDate: 6/4/2020 11:38:57 AM
+        totalAmountDue: $33.96
+Farmer has recieved new order from Store 5
+Store 2 has placed an order.
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 5
+        cardNo: 2147483647
+        amount: 4
+        orderDate: 6/4/2020 11:38:56 AM
+        price: $7
+        orderConfirmedDate: 6/4/2020 11:38:58 AM
+        totalAmountDue: $33.96
+Store 1 has placed an order.
+Farmer has recieved new order from Store 2
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 2
+        cardNo: 2147483644
+        amount: 4
+        orderDate: 6/4/2020 11:38:56 AM
+        price: $7
+        orderConfirmedDate: 6/4/2020 11:38:59 AM
+        totalAmountDue: $33.96
+Store 4 has placed an order.
+Farmer has recieved new order from Store 1
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 1
+        cardNo: 2147483643
+        amount: 4
+        orderDate: 6/4/2020 11:38:56 AM
+        price: $7
+        orderConfirmedDate: 6/4/2020 11:39:00 AM
+        totalAmountDue: $33.96
+Store 5 has placed an order.
+Farmer has recieved new order from Store 4
+Price cut to $6. Previous price was $10
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 4
+        cardNo: 2147483646
+        amount: 8
+        orderDate: 6/4/2020 11:38:57 AM
+        price: $3
+        orderConfirmedDate: 6/4/2020 11:39:01 AM
+        totalAmountDue: $33.68
+Store 3 has placed an order.
+Farmer has recieved new order from Store 5
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 5
+        cardNo: 2147483647
+        amount: 8
+        orderDate: 6/4/2020 11:38:58 AM
+        price: $3
+        orderConfirmedDate: 6/4/2020 11:39:02 AM
+        totalAmountDue: $33.68
+Store 1 has placed an order.
+Farmer has recieved new order from Store 3
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 3
+        cardNo: 2147483645
+        amount: 8
+        orderDate: 6/4/2020 11:38:57 AM
+        price: $3
+        orderConfirmedDate: 6/4/2020 11:39:03 AM
+        totalAmountDue: $33.68
+Store 4 has placed an order.
+Farmer has recieved new order from Store 1
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 1
+        cardNo: 2147483643
+        amount: 5
+        orderDate: 6/4/2020 11:39:01 AM
+        price: $6
+        orderConfirmedDate: 6/4/2020 11:39:04 AM
+        totalAmountDue: $37.10
+Store 2 has placed an order.
+Farmer has recieved new order from Store 4
+Price cut to $9. Previous price was $10
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 4
+        cardNo: 2147483646
+        amount: 5
+        orderDate: 6/4/2020 11:39:01 AM
+        price: $6
+        orderConfirmedDate: 6/4/2020 11:39:05 AM
+        totalAmountDue: $37.10
+Farmer has recieved new order from Store 2
+Store 5 has placed an order.
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 2
+        cardNo: 2147483644
+        amount: 5
+        orderDate: 6/4/2020 11:39:01 AM
+        price: $6
+        orderConfirmedDate: 6/4/2020 11:39:06 AM
+        totalAmountDue: $37.10
+Store 1 has placed an order.
+Farmer has recieved new order from Store 5
+Price cut to $6. Previous price was $10
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 5
+        cardNo: 2147483647
+        amount: 5
+        orderDate: 6/4/2020 11:39:02 AM
+        price: $6
+        orderConfirmedDate: 6/4/2020 11:39:07 AM
+        totalAmountDue: $37.10
+Farmer has recieved new order from Store 1
+Store 2 has placed an order.
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 1
+        cardNo: 2147483643
+        amount: 2
+        orderDate: 6/4/2020 11:39:05 AM
+        price: $9
+        orderConfirmedDate: 6/4/2020 11:39:08 AM
+        totalAmountDue: $21.26
+There have been 5 price cuts.
+Farmer is done selling chickens for the day.
+Store 2 has closed for the day.
+Store 3 has closed for the day.
+Store 4 has closed for the day.
+Store 1 has closed for the day.
+Store 5 has closed for the day.
+Enter any key to end the program...
+/************/
+Test #3 Output
+/************/
+Price cut to $7. Previous price was $11
+Store 4 has placed an order.
+Store 3 has placed an order.
+Store 5 has placed an order.
+Farmer has recieved new order from Store 3
+Price cut to $3. Previous price was $7
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 3
+        cardNo: 2147483645
+        amount: 4
+        orderDate: 6/4/2020 11:38:56 AM
+        price: $7
+        orderConfirmedDate: 6/4/2020 11:38:57 AM
+        totalAmountDue: $33.96
+Farmer has recieved new order from Store 5
+Store 2 has placed an order.
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 5
+        cardNo: 2147483647
+        amount: 4
+        orderDate: 6/4/2020 11:38:56 AM
+        price: $7
+        orderConfirmedDate: 6/4/2020 11:38:58 AM
+        totalAmountDue: $33.96
+Store 1 has placed an order.
+Farmer has recieved new order from Store 2
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 2
+        cardNo: 2147483644
+        amount: 4
+        orderDate: 6/4/2020 11:38:56 AM
+        price: $7
+        orderConfirmedDate: 6/4/2020 11:38:59 AM
+        totalAmountDue: $33.96
+Store 4 has placed an order.
+Farmer has recieved new order from Store 1
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 1
+        cardNo: 2147483643
+        amount: 4
+        orderDate: 6/4/2020 11:38:56 AM
+        price: $7
+        orderConfirmedDate: 6/4/2020 11:39:00 AM
+        totalAmountDue: $33.96
+Store 5 has placed an order.
+Farmer has recieved new order from Store 4
+Price cut to $6. Previous price was $10
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 4
+        cardNo: 2147483646
+        amount: 8
+        orderDate: 6/4/2020 11:38:57 AM
+        price: $3
+        orderConfirmedDate: 6/4/2020 11:39:01 AM
+        totalAmountDue: $33.68
+Store 3 has placed an order.
+Farmer has recieved new order from Store 5
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 5
+        cardNo: 2147483647
+        amount: 8
+        orderDate: 6/4/2020 11:38:58 AM
+        price: $3
+        orderConfirmedDate: 6/4/2020 11:39:02 AM
+        totalAmountDue: $33.68
+Store 1 has placed an order.
+Farmer has recieved new order from Store 3
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 3
+        cardNo: 2147483645
+        amount: 8
+        orderDate: 6/4/2020 11:38:57 AM
+        price: $3
+        orderConfirmedDate: 6/4/2020 11:39:03 AM
+        totalAmountDue: $33.68
+Store 4 has placed an order.
+Farmer has recieved new order from Store 1
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 1
+        cardNo: 2147483643
+        amount: 5
+        orderDate: 6/4/2020 11:39:01 AM
+        price: $6
+        orderConfirmedDate: 6/4/2020 11:39:04 AM
+        totalAmountDue: $37.10
+Store 2 has placed an order.
+Farmer has recieved new order from Store 4
+Price cut to $9. Previous price was $10
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 4
+        cardNo: 2147483646
+        amount: 5
+        orderDate: 6/4/2020 11:39:01 AM
+        price: $6
+        orderConfirmedDate: 6/4/2020 11:39:05 AM
+        totalAmountDue: $37.10
+Farmer has recieved new order from Store 2
+Store 5 has placed an order.
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 2
+        cardNo: 2147483644
+        amount: 5
+        orderDate: 6/4/2020 11:39:01 AM
+        price: $6
+        orderConfirmedDate: 6/4/2020 11:39:06 AM
+        totalAmountDue: $37.10
+Store 1 has placed an order.
+Farmer has recieved new order from Store 5
+Price cut to $6. Previous price was $10
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 5
+        cardNo: 2147483647
+        amount: 5
+        orderDate: 6/4/2020 11:39:02 AM
+        price: $6
+        orderConfirmedDate: 6/4/2020 11:39:07 AM
+        totalAmountDue: $37.10
+Farmer has recieved new order from Store 1
+Store 2 has placed an order.
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 1
+        cardNo: 2147483643
+        amount: 2
+        orderDate: 6/4/2020 11:39:05 AM
+        price: $9
+        orderConfirmedDate: 6/4/2020 11:39:08 AM
+        totalAmountDue: $21.26
+There have been 5 price cuts.
+Farmer is done selling chickens for the day.
+Store 2 has closed for the day.
+Store 3 has closed for the day.
+Store 4 has closed for the day.
+Store 1 has closed for the day.
+Store 5 has closed for the day.
+Enter any key to end the program...
+/************/
+Test #4 Output
+/************/
+Price cut to $7. Previous price was $11
+Store 2 has placed an order.
+Store 4 has placed an order.
+Store 1 has placed an order.
+Farmer has recieved new order from Store 4
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 4
+        cardNo: 2147483646
+        amount: 4
+        orderDate: 6/4/2020 11:39:51 AM
+        price: $7
+        orderConfirmedDate: 6/4/2020 11:39:52 AM
+        totalAmountDue: $33.96
+Store 3 has placed an order.
+Farmer has recieved new order from Store 1
+Price cut to $9. Previous price was $10
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 1
+        cardNo: 2147483643
+        amount: 4
+        orderDate: 6/4/2020 11:39:51 AM
+        price: $7
+        orderConfirmedDate: 6/4/2020 11:39:53 AM
+        totalAmountDue: $33.96
+Farmer has recieved new order from Store 3
+Store 2 has placed an order.
+Price cut to $5. Previous price was $9
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 3
+        cardNo: 2147483645
+        amount: 4
+        orderDate: 6/4/2020 11:39:51 AM
+        price: $7
+        orderConfirmedDate: 6/4/2020 11:39:54 AM
+        totalAmountDue: $33.96
+Farmer has recieved new order from Store 2
+Store 5 has placed an order.
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 2
+        cardNo: 2147483644
+        amount: 4
+        orderDate: 6/4/2020 11:39:52 AM
+        price: $7
+        orderConfirmedDate: 6/4/2020 11:39:55 AM
+        totalAmountDue: $33.96
+Farmer has recieved new order from Store 5
+Store 2 has placed an order.
+Price cut to $9. Previous price was $10
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 5
+        cardNo: 2147483647
+        amount: 4
+        orderDate: 6/4/2020 11:39:51 AM
+        price: $7
+        orderConfirmedDate: 6/4/2020 11:39:56 AM
+        totalAmountDue: $33.96
+Store 3 has placed an order.
+Farmer has recieved new order from Store 2
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 2
+        cardNo: 2147483644
+        amount: 6
+        orderDate: 6/4/2020 11:39:55 AM
+        price: $5
+        orderConfirmedDate: 6/4/2020 11:39:57 AM
+        totalAmountDue: $38.10
+Farmer has recieved new order from Store 3
+Store 1 has placed an order.
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 3
+        cardNo: 2147483645
+        amount: 2
+        orderDate: 6/4/2020 11:39:54 AM
+        price: $9
+        orderConfirmedDate: 6/4/2020 11:39:58 AM
+        totalAmountDue: $21.26
+Farmer has recieved new order from Store 1
+Store 2 has placed an order.
+Price cut to $4. Previous price was $10
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 1
+        cardNo: 2147483643
+        amount: 2
+        orderDate: 6/4/2020 11:39:53 AM
+        price: $9
+        orderConfirmedDate: 6/4/2020 11:39:59 AM
+        totalAmountDue: $21.26
+Farmer has recieved new order from Store 2
+Store 5 has placed an order.
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 2
+        cardNo: 2147483644
+        amount: 2
+        orderDate: 6/4/2020 11:39:57 AM
+        price: $9
+        orderConfirmedDate: 6/4/2020 11:40:00 AM
+        totalAmountDue: $21.26
+There have been 5 price cuts.
+Farmer is done selling chickens for the day.
+Store 5 has closed for the day.
+Store 4 has closed for the day.
+Store 3 has closed for the day.
+Store 1 has closed for the day.
+Store 2 has closed for the day.
+Enter any key to end the program...
+/************/
+Test #5 Output
+/************/
+Price cut to $9. Previous price was $11
+Store 4 has placed an order.
+Store 1 has placed an order.
+Store 3 has placed an order.
+Farmer has recieved new order from Store 1
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 1
+        cardNo: 2147483643
+        amount: 2
+        orderDate: 6/4/2020 11:40:48 AM
+        price: $9
+        orderConfirmedDate: 6/4/2020 11:40:49 AM
+        totalAmountDue: $21.26
+Store 2 has placed an order.
+Farmer has recieved new order from Store 3
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 3
+        cardNo: 2147483645
+        amount: 2
+        orderDate: 6/4/2020 11:40:48 AM
+        price: $9
+        orderConfirmedDate: 6/4/2020 11:40:50 AM
+        totalAmountDue: $21.26
+Store 5 has placed an order.
+Farmer has recieved new order from Store 2
+Price cut to $7. Previous price was $10
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 2
+        cardNo: 2147483644
+        amount: 2
+        orderDate: 6/4/2020 11:40:48 AM
+        price: $9
+        orderConfirmedDate: 6/4/2020 11:40:51 AM
+        totalAmountDue: $21.26
+Farmer has recieved new order from Store 5
+Store 3 has placed an order.
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 5
+        cardNo: 2147483647
+        amount: 2
+        orderDate: 6/4/2020 11:40:48 AM
+        price: $9
+        orderConfirmedDate: 6/4/2020 11:40:52 AM
+        totalAmountDue: $21.26
+Store 1 has placed an order.
+Farmer has recieved new order from Store 3
+Price cut to $6. Previous price was $9
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 3
+        cardNo: 2147483645
+        amount: 4
+        orderDate: 6/4/2020 11:40:51 AM
+        price: $7
+        orderConfirmedDate: 6/4/2020 11:40:53 AM
+        totalAmountDue: $33.96
+Store 4 has placed an order.
+Farmer has recieved new order from Store 1
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 1
+        cardNo: 2147483643
+        amount: 4
+        orderDate: 6/4/2020 11:40:51 AM
+        price: $7
+        orderConfirmedDate: 6/4/2020 11:40:54 AM
+        totalAmountDue: $33.96
+Store 3 has placed an order.
+Farmer has recieved new order from Store 4
+Price cut to $6. Previous price was $10
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 4
+        cardNo: 2147483646
+        amount: 4
+        orderDate: 6/4/2020 11:40:51 AM
+        price: $7
+        orderConfirmedDate: 6/4/2020 11:40:55 AM
+        totalAmountDue: $33.96
+Farmer has recieved new order from Store 3
+Store 1 has placed an order.
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 3
+        cardNo: 2147483645
+        amount: 5
+        orderDate: 6/4/2020 11:40:53 AM
+        price: $6
+        orderConfirmedDate: 6/4/2020 11:40:56 AM
+        totalAmountDue: $37.10
+Farmer has recieved new order from Store 1
+Store 3 has placed an order.
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 1
+        cardNo: 2147483643
+        amount: 5
+        orderDate: 6/4/2020 11:40:54 AM
+        price: $6
+        orderConfirmedDate: 6/4/2020 11:40:57 AM
+        totalAmountDue: $37.10
+Store 4 has placed an order.
+Farmer has recieved new order from Store 3
+Price cut to $8. Previous price was $10
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 3
+        cardNo: 2147483645
+        amount: 5
+        orderDate: 6/4/2020 11:40:56 AM
+        price: $6
+        orderConfirmedDate: 6/4/2020 11:40:58 AM
+        totalAmountDue: $37.10
+Farmer has recieved new order from Store 4
+Store 5 has placed an order.
+        Order has been confirmed. Here is your reciept of purchase:
+        ----------------------------------------------------------
+        senderId: Store 4
+        cardNo: 2147483646
+        amount: 5
+        orderDate: 6/4/2020 11:40:55 AM
+        price: $6
+        orderConfirmedDate: 6/4/2020 11:40:59 AM
+        totalAmountDue: $37.10
+There have been 5 price cuts.
+Farmer is done selling chickens for the day.
+Store 5 has closed for the day.
+Store 2 has closed for the day.
+Store 3 has closed for the day.
+Store 1 has closed for the day.
+Store 4 has closed for the day.
+Enter any key to end the program...
